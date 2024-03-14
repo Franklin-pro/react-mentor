@@ -6,7 +6,7 @@ return (
     <div className="nav-container">
         <div className="navBar">
             <div className="bar">
-                <h1>Galleria.</h1>
+                <h1>Gallerias.</h1>
                 <h2>start slideshow</h2>
 
             </div>
