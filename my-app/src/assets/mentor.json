@@ -10,7 +10,7 @@
   },
   {
     "id":2,
-    "name": " MUSEVENI",
+    "name": " Nature flowers",
     "title": "president of Uganda",
     "newsImage": [
       "https://images.pexels.com/photos/17893690/pexels-photo-17893690/free-photo-of-carrot-flower-on-a-field.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
@@ -18,56 +18,49 @@
   },
   {
     "id":3,
-    "name": " POUL KAGAME",
-    "title": " POUL KAGAME",
+    "name": " alexis kay",
+    "title": " autumnal-leaves",
     "newsImage": [
       "https://images.pexels.com/photos/20442701/pexels-photo-20442701/free-photo-of-selective-focus-photo-of-autumnal-leaves.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     ]
   },
+
   {
     "id":4,
-    "name": "HIGH RISK ZONE",
-    "title": "kings gram",
-    "newsImage": [
-      "https://images.pexels.com/photos/7605106/pexels-photo-7605106.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
-    ]
-  },
-  {
-    "id":4,
-    "name": " POUL KAGAME",
-    "title": " POUL KAGAME",
+    "name": " anould grey",
+    "title": " compress",
     "newsImage": [
       "https://images.pexels.com/photos/7605106/pexels-photo-7605106.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
     ]
   },
   {
     "id":5,
-    "name": " POUL KAGAME",
-    "title": " POUL KAGAME",
+    "name": "queen nessa",
+    "title": " woman-in-a-pink-dress",
     "newsImage": [
       "https://images.pexels.com/photos/20196635/pexels-photo-20196635/free-photo-of-a-woman-in-a-pink-dress-stands-in-front-of-a-tent.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     ]
   },
   {
     "id":6,
-    "name": " POUL KAGAME",
-    "title": " POUL KAGAME",
+    "name": " Poul kenzie",
+    "title": " balloon-in-air",
     "newsImage": [
       "https://images.pexels.com/photos/18113451/pexels-photo-18113451/free-photo-of-hot-air-balloon-in-air.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
     ]
   },
   {
     "id":7,
-    "name": " POUL KAGAME",
-    "title": " POUL KAGAME",
+    "name": "kenny's gram",
+    "title": " african-man-in-sunlight",
     "newsImage": [
       "https://images.pexels.com/photos/20463326/pexels-photo-20463326/free-photo-of-portrait-of-an-african-man-in-sunlight.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     ]
   },
   {
     "id":8,
-    "name": " POUL KAGAME",
-    "title": " POUL KAGAME",
+    "name": "arabics",
+    "title": " best photo shoot",
     "newsImage": [
       "https://media.licdn.com/dms/image/C5603AQFweeI343X56g/profile-displayphoto-shrink_800_800/0/1517827050401?e=2147483647&v=beta&t=ajMR2hJZY68Sbv_MkVZ5UdHtviwfLvi6U-grQ-NcJwQ"
     ]
@@ -82,8 +75,8 @@
   },
   {
     "id":10,
-    "name": " POUL KAGAME",
-    "title": " POUL KAGAME",
+    "name": " rolando spinner",
+    "title": " ukrainian-girl",
     "newsImage": [
       "https://images.pexels.com/photos/20297323/pexels-photo-20297323/free-photo-of-ukrainian-girl.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
     ]

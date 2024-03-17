@@ -7,6 +7,7 @@ function MentorPage(){
         <>
         <NavBar/>
         <Mentor/>
+     
         </>
     )
 }

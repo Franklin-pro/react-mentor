@@ -16,7 +16,7 @@
         font-family: "Noto Serif", serif;
         color: #FFF;
         h1{
-            font-size: 2.5rem;
+            font-size: 2rem;
         }
         p{
             font-size: 1.5rem;
@@ -38,5 +38,35 @@
         transition: all 350ms ease;
         cursor: pointer;
         margin-bottom: 12px;
+    }
+}
+@media screen and (max-width:1023px) {
+    .grid{
+        -webkit-column-count: 3;
+        -moz-column-count: 3;
+        column-count: 3;
+       height:auto;
+       width: 100%;
+       background-color: rgb(255, 255, 255);
+    }
+}
+@media screen and (max-width:697px) {
+    .grid{
+        -webkit-column-count: 2;
+        -moz-column-count: 2;
+        column-count: 2;
+       height:auto;
+       width: 100%;
+       background-color: rgb(255, 255, 255);
+    }
+}
+@media screen and (max-width:446px) {
+    .grid{
+        -webkit-column-count: 1;
+        -moz-column-count: 1;
+        column-count: 1;
+       height:auto;
+       width: 100%;
+       background-color: rgb(255, 255, 255);
     }
 }

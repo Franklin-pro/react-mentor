@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 function NavBar(){
 return (
@@ -7,7 +8,7 @@ return (
         <div className="navBar">
             <div className="bar">
                 <h1>Gallerias.</h1>
-                <h2>start slideshow</h2>
+               <Link to={'./display'} className="slide">startSlideshow</Link>
 
             </div>
             <hr style={{width:'97%', margin:'0 auto'}}/>
