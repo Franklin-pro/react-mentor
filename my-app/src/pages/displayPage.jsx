@@ -6,7 +6,6 @@ function DisplayPage(){
 return (
     <>
     <Display/>
-    
     </>
 )
 }
